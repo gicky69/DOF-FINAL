@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698947841 source:d:\carl2\coding\c++prac\doorsoffate\file teast\main.cpp
+	<iostream>
+	<cstring>
+	<ctime>
+	<cstdlib>
+	<string>
+	<fstream>
+	<cctype>
+	<cmath>
+
